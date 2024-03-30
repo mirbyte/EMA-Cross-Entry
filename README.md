@@ -1,4 +1,4 @@
-# EMA Cross Entry cBot
+# EMA-Cross-Entry cBot
 Sophisticated EMA crossover cBot. Below is a list of key components:
 
 ### Moving Averages Setup:
