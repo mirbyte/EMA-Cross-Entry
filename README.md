@@ -17,7 +17,7 @@ Checks for EMA crossovers and executes trades accordingly.
 The algorithm includes logic to prevent multiple trades within a short time using the hasTraded flag.
 The SetTrailingStop method is used to implement a trailing stop feature for both long and short positions.
 ### Disclaimer:
-Trading algorithms involve risk, and this script should be thoroughly tested in a simulated environment before using it in a live trading scenario. Users should understand the parameters and logic to adapt them to their risk tolerance and market conditions. I take no responsibility for your losses.
+Trading algorithms involve risk, and this script should be thoroughly tested in a simulated environment before using it in a live trading scenario. Users should understand the parameters and logic to adapt them to their risk tolerance and market conditions. **I take no responsibility for your losses.**
 
 ![ema cross entry](https://github.com/mirbyte/cBot-EMA-Cross-Entry/assets/83219244/7617add5-dbd8-42fe-8abd-1349364dbc12)
 ![parameters](https://github.com/mirbyte/cBot-EMA-Cross-Entry/assets/83219244/7bcba0ed-de92-459b-93ce-c7fd391d61a6)
